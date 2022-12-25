@@ -1,6 +1,6 @@
 # Clone do Netflix em React
 
-### Layout principal da netflix apenas para estudo
+### Layout principal da netflix feito em React apenas para estudo
 
 # Build
 <li>React</li>
