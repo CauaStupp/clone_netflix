@@ -13,4 +13,6 @@
 
 <br/>
 
+<a href='https://netflixclonecaua.netlify.app/' target='_BLANK'>Link do site</a>
+
 <i>Copyright (c) MIT License</i>
